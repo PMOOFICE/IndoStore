@@ -5,7 +5,7 @@ import toast from "react-hot-toast";
 import { fireDB } from "../../firebase/FirebaseConfig";
 import { useNavigate } from "react-router";
 import Loader from "../../components/loader/Loader";
-import Layout from "../../components/layout/layout";
+//import Layout from "../../components/layout/layout";
 
 const categoryList = [
     {
